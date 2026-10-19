@@ -1,0 +1,20 @@
+.header{
+    font-family: sans-serif;
+    font-size: medium;
+    background-color: #266CA9;
+    text-align: center;
+    padding: 20px;
+}
+
+.nav{
+    background-color: #ADE1FB;
+    padding:20px;
+    width: auto;
+    display: flex;
+    justify-content:center;
+    gap: 100px;
+}
+
+#link{
+    
+}
